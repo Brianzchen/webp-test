@@ -1,0 +1,17 @@
+[ignore]
+.*dist/.*
+.*node_modules/.*
+!.*node_modules/@.*
+!.*node_modules/tiny-invariant/.*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+esproposal.optional_chaining=enable
+types_first=true
+
+[strict]
