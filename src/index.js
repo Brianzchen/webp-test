@@ -1,9 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+// @flow
+import png from './test.png';
+import webp from './test.webp';
 
-import App from './App';
-
-ReactDOM.render(
-  <App />,
-  document.getElementById('root'),
-);
+png.toLowerCase();
+webp.toLowerCase();

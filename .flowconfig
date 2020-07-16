@@ -13,5 +13,6 @@
 [options]
 esproposal.optional_chaining=enable
 types_first=true
+module.name_mapper.extension='webp' -> '<PROJECT_ROOT>/flow-mocks/empty-string.js'
 
 [strict]
